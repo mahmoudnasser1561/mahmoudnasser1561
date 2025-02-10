@@ -1,8 +1,10 @@
 <h1 align="center">Hey there! 👋 I'm Mahmoud</h1>
 
+
 <p align="center">
 💡 Striving to Make an Impact | 🚀 GSOC'25 Contributor | 💻 Open Source Enthusiast
 </p>
+
 
 
 - 🔭 I’m currently working on **GSOC projects & scalable open-source solutions**  
