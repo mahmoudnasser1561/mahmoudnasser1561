@@ -11,5 +11,5 @@
 - 🌱 I’m currently learning **Django, Flask, and React**  
 - 👯 I’m looking to collaborate on **open-source projects related to web & system development**  
 - 💬 Ask me about **MySQL, MongDB,Linux, Bash, Vim, Python, Java and JavaScript.**
-- 📫 How to reach me: **[Gmail](mahmoudnasser1561@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mahmoud-nasser-123588197/)**
+- 📫 How to reach me: **[Gmail](mahmoudnasser1561@gmail.com)*
 - ⚡ Fun fact: I love to cook, and I’m actually a pretty good chef! 🍳🔥
