@@ -14,8 +14,6 @@
 - 📫 How to reach me: **[Gmail](mahmoudnasser1561@gmail.com)**
 - ⚡ Fun fact: I love to cook, and I’m actually a pretty good chef! 🍳🔥
 
-![GitHub Contribution Stats](https://github-contributor-stats.vercel.app/api?username=mahmoudnasser1561)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmoudnasser1561&theme=github)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudnasser1561&show_icons=true&theme=dark)
 
 
