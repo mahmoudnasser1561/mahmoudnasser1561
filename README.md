@@ -2,7 +2,7 @@
 
 
 <p align="center">
-💡 Striving to Make an Impact | 🚀 GSOC'25 Contributor | 💻 Open Source Enthusiast
+💡 Striving to Make an Impact
 </p>
 
 
