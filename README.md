@@ -8,7 +8,6 @@
 
 
 - 🔭 I’m currently working on **GSOC projects & scalable open-source solutions**  
-- 🌱 I’m currently learning **Django, Flask, and React**  
 - 👯 I’m looking to collaborate on **open-source projects related to web & system development**  
 - 💬 Ask me about **MySQL, MongDB,Linux, Bash, Vim, Python, Java, Redis and JavaScript.**
 - 📫 How to reach me: **[Gmail](mahmoudnasser1561@gmail.com)**
