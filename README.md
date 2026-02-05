@@ -14,5 +14,3 @@
 - ⚡ Fun fact: I love to cook, and I’m actually a pretty good chef! 🍳🔥
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahmoudnasser1561&theme=github)
-
-
